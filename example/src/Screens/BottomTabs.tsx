@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { Platform } from 'react-native';
-import { MaterialCommunityIcons } from '@expo/vector-icons';
+import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import TouchableBounce from '../Shared/TouchableBounce';
 import Albums from '../Shared/Albums';
